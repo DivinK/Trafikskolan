@@ -9,9 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
-- (IBAction)provButton:(id)sender;
-- (IBAction)bokButton:(id)sender;
-- (IBAction)statikButton:(id)sender;
-- (IBAction)butikButton:(id)sender;
+@property (weak, nonatomic) IBOutlet UIImageView *imagTest;
+
 
 @end

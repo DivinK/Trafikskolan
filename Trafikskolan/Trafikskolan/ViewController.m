@@ -8,6 +8,8 @@
 
 #import "ViewController.h"
 
+
+
 @interface ViewController ()
 
 @end
@@ -17,6 +19,13 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
+    UIImage *provButtonImage =[UIImage imageNamed:@"test.png"];
+    
+    
+    
+    
+    
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
@@ -27,9 +36,13 @@
 }
 
 - (IBAction)provButton:(id)sender {
-}
+    
+    
+//    return provButton
+    }
 
 - (IBAction)bokButton:(id)sender {
+    
 }
 
 - (IBAction)statikButton:(id)sender {

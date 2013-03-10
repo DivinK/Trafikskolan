@@ -18,6 +18,10 @@
 		84830ABE16DF7C9D0088C66B /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 84830ABD16DF7C9D0088C66B /* Default-568h@2x.png */; };
 		84830AC116DF7C9D0088C66B /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84830ABF16DF7C9D0088C66B /* MainStoryboard.storyboard */; };
 		84830AC416DF7C9D0088C66B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84830AC316DF7C9D0088C66B /* ViewController.m */; };
+		84830ACE16DF91DD0088C66B /* bok.png in Resources */ = {isa = PBXBuildFile; fileRef = 84830ACA16DF91DC0088C66B /* bok.png */; };
+		84830ACF16DF91DD0088C66B /* butik.png in Resources */ = {isa = PBXBuildFile; fileRef = 84830ACB16DF91DC0088C66B /* butik.png */; };
+		84830AD016DF91DD0088C66B /* statis.png in Resources */ = {isa = PBXBuildFile; fileRef = 84830ACC16DF91DC0088C66B /* statis.png */; };
+		84830AD116DF91DD0088C66B /* test.png in Resources */ = {isa = PBXBuildFile; fileRef = 84830ACD16DF91DD0088C66B /* test.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +41,10 @@
 		84830AC016DF7C9D0088C66B /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		84830AC216DF7C9D0088C66B /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		84830AC316DF7C9D0088C66B /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		84830ACA16DF91DC0088C66B /* bok.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bok.png; path = ../Images/bok.png; sourceTree = "<group>"; };
+		84830ACB16DF91DC0088C66B /* butik.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = butik.png; path = ../Images/butik.png; sourceTree = "<group>"; };
+		84830ACC16DF91DC0088C66B /* statis.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = statis.png; path = ../Images/statis.png; sourceTree = "<group>"; };
+		84830ACD16DF91DD0088C66B /* test.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = test.png; path = ../Images/test.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +64,10 @@
 		84830A9B16DF7C9D0088C66B = {
 			isa = PBXGroup;
 			children = (
+				84830ACA16DF91DC0088C66B /* bok.png */,
+				84830ACB16DF91DC0088C66B /* butik.png */,
+				84830ACC16DF91DC0088C66B /* statis.png */,
+				84830ACD16DF91DD0088C66B /* test.png */,
 				84830AAD16DF7C9D0088C66B /* Trafikskolan */,
 				84830AA616DF7C9D0088C66B /* Frameworks */,
 				84830AA516DF7C9D0088C66B /* Products */,
@@ -163,6 +175,10 @@
 				84830ABC16DF7C9D0088C66B /* Default@2x.png in Resources */,
 				84830ABE16DF7C9D0088C66B /* Default-568h@2x.png in Resources */,
 				84830AC116DF7C9D0088C66B /* MainStoryboard.storyboard in Resources */,
+				84830ACE16DF91DD0088C66B /* bok.png in Resources */,
+				84830ACF16DF91DD0088C66B /* butik.png in Resources */,
+				84830AD016DF91DD0088C66B /* statis.png in Resources */,
+				84830AD116DF91DD0088C66B /* test.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
