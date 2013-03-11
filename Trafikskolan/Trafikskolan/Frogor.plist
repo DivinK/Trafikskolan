@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <array>
+        <dict>
+            <key>frag1</key>
+            <string>Du kör bil i 70km/h. Vad är sant om det buller som uppstår?</string>
+            <key>sv1</key>
+            <string>Däcken orsakar mer buller än motorn.</string>
+            <key>sv2</key>
+            <string>Motor orsakar mer nuller än däcken.</string>
+            <key>sv3</key>
+            <string>Det finns ingen skillnad i bullernivå mellan motorn och däcken.</string>
+        </dict>
+        <dict>
+            <key>frag2</key>
+            <string>Det är mötkt ute och du kör med halvljus. På vilket avstånd upptäcker du en fotgängare med mörka kläder utan reflex ? </string>
+            <key>sv1</key>
+            <string>Cirka 50 meter.</string>
+            <key>sv2</key>
+            <string>Cirka 25 meter.</string>
+            <key>sv3</key>
+            <string>Cirka 75 meter.</string>
+            <key>sv4</key>
+            <string>Cirka 100 meter.</string>
+        </dict>
+        <dict>
+            <key>frag3</key>
+            <string>Vad är samt angående barn i trafiken?</string>
+            <key>sv1</key>
+            <string>Barn har känsligare och bättre hörsel än vuxna.</string>
+            <key>sv2</key>
+            <string>Bran är oftast lättare att se än vuxna, eftersom de har färggladare kläder.</string>
+            <key>sv3</key>
+            <string>Barn har svårt att bedöma avstånd rätt.</string>
+        </dict>
+        <dict>
+            <key>frag4</key>
+            <string>Vad innebär ytinlärning?</string>
+            <key>sv1</key>
+            <string>Att du endast lär dig faktauppgifter utan att kunna förklara det lärt dig .</string>
+            <key>sv2</key>
+            <string>Att du försöker se sammanhang och föstå Varför trafikreglerna finns.</string>
+        </dict>
+        <dict>
+            <key>frag3</key>
+            <string>Har du anledning att misstänka att något är fel om bromspedalen sjunker långsamt under hårt tryck?</string>
+            <key>sv1</key>
+            <string>Ja, att det finns en läcka i bromssystemet .</string>
+            <key>sv2</key>
+            <string>Nej, det är normalt.</string>
+            <key>sv3</key>
+            <string>Ja, att bromsskivorna är slitna.</string>
+            <key>sv4</key>
+            <string>Ja, att ABS inte fungerar.</string>
+        </dict>
+    </array>
+</plist>

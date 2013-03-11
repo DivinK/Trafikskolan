@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		844D38AD16EE071200D87A93 /* Frogor.plist in Resources */ = {isa = PBXBuildFile; fileRef = 844D38AC16EE071200D87A93 /* Frogor.plist */; };
 		84830AA816DF7C9D0088C66B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84830AA716DF7C9D0088C66B /* UIKit.framework */; };
 		84830AAA16DF7C9D0088C66B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84830AA916DF7C9D0088C66B /* Foundation.framework */; };
 		84830AAC16DF7C9D0088C66B /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84830AAB16DF7C9D0088C66B /* CoreGraphics.framework */; };
@@ -25,6 +26,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		844D38AC16EE071200D87A93 /* Frogor.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Frogor.plist; sourceTree = "<group>"; };
 		84830AA416DF7C9D0088C66B /* Trafikskolan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Trafikskolan.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84830AA716DF7C9D0088C66B /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		84830AA916DF7C9D0088C66B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -115,6 +117,7 @@
 				84830AB916DF7C9D0088C66B /* Default.png */,
 				84830ABB16DF7C9D0088C66B /* Default@2x.png */,
 				84830ABD16DF7C9D0088C66B /* Default-568h@2x.png */,
+				844D38AC16EE071200D87A93 /* Frogor.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 				84830ACF16DF91DD0088C66B /* butik.png in Resources */,
 				84830AD016DF91DD0088C66B /* statis.png in Resources */,
 				84830AD116DF91DD0088C66B /* test.png in Resources */,
+				844D38AD16EE071200D87A93 /* Frogor.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -314,6 +318,7 @@
 				84830AC916DF7C9D0088C66B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
